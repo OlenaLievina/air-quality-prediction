@@ -16,6 +16,10 @@ This project is a learning experiment with **time series regression**.
 6. **Saves**:
    - trained pipelines (`joblib`);
    - a leaderboard with **cross-validation RMSE** and best parameters (`leaderboard.csv`).
+**Note:**  
+`leaderboard.csv` contains the **cross-validation RMSE** scores and best hyperparameters found during training,  
+but **does NOT include the test set evaluation metrics**.
+
 ## Final test metrics
 | Model                   | RMSE   | R² Score |
 |-------------------------|--------|----------|
