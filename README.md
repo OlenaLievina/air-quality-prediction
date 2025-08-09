@@ -19,6 +19,6 @@ This project is a learning experiment with **time series regression**.
 ## Final test metrics
 | Model                   | RMSE   | R² Score |
 |-------------------------|--------|----------|
-| XGBoost                 | 0.1847 | 0.9992   |
-| HistGradientBoosting    | 0.2841 | 0.9981   |
-| RandomForestRegressor   | 0.6090 | 0.9913   |
+| XGBoost                 | 0.1847 |  0.9992  |
+| HistGradientBoosting    | 0.2841 |  0.9981  |
+| RandomForestRegressor   | 0.6090 |  0.9913  |
